@@ -14,7 +14,7 @@ const CTA: React.FC = () => (
         Discover high-quality, professional printing solutions tailored just for you.
       </p>
       <a
-        href="https://wa.me/085695503944"
+        href="https://wa.me/6285695503944"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center bg-white text-blue-600 px-8 py-3 rounded-full font-bold shadow-lg hover:bg-gray-100 transition transform hover:scale-105 duration-300"
