@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
                 Explore Services
               </a>
               <a
-                href="https://wa.me/087765061856"
+                href="https://wa.me/085695503944"
                 className="border-2 border-yellow-400 text-yellow-400 py-3 px-6 rounded-lg font-semibold hover:bg-yellow-400 hover:text-blue-800 transition transform hover:scale-105"
               >
                 Contact Us

@@ -101,7 +101,7 @@ const ServiceDetails = () => {
   }
 
   // WhatsApp message with pre-filled content
-  const whatsappNumber = "087765061856";
+  const whatsappNumber = "085695503944";
   const whatsappMessage = encodeURIComponent(
     `Hi, I am interested in your "${service.title}" service. Could you please provide more details?`
   );
